@@ -53,8 +53,6 @@
 <!-- ═══════════════════════════ TERMINAL BIO ══════════════════════════ -->
 
 ```bash
-┌──[krishna@enterprise-infra]─[~]
-└─$ whoami --verbose
 
   Name     :  Krishna Chaithanya
   Role     :  Senior System Administrator & DevOps Engineer
@@ -64,8 +62,6 @@
   Award    :  🏆 On-the-Spot Award — Gemini Solutions Pvt Ltd
   Status   :  [ ACTIVE ] Building. Automating. Scaling.
 
-┌──[krishna@enterprise-infra]─[~]
-└─$ cat /etc/philosophy
 
   > Automate everything repeatable.
   > Secure by design, not by afterthought.
