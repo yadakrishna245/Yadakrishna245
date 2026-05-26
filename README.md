@@ -265,10 +265,6 @@ Logs       : Journalctl · syslog
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yadakrishna245&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadakrishna245&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=yadakrishna245&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff&border_radius=8"/>
