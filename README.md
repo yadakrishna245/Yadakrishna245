@@ -30,19 +30,42 @@
 
 ---
 
+<!-- 🏆 ACHIEVEMENT SHOWCASE -->
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+
+<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="750"/>
+
+<br/><br/>
+
+![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+<sub><b>Recognition for outstanding production support, incident resolution & enterprise infrastructure reliability</b></sub>
+
+</div>
+
+---
+
 <!-- ═══════════════════════════ TERMINAL BIO ══════════════════════════ -->
 
 ```bash
+┌──[krishna@enterprise-infra]─[~]
+└─$ whoami --verbose
 
   Name     :  Krishna Chaithanya
   Role     :  Senior System Administrator & DevOps Engineer
   Focus    :  Linux Infrastructure · Cloud · Automation · Reliability
   Scale    :  4000+ Servers  |  AWS + Hybrid Cloud
   XP       :  8+ Years in Enterprise Production Environments
-  Award    :  🏆 On-the-Spot Award — Gemini Solutions
+  Award    :  🏆 On-the-Spot Award — Gemini Solutions Pvt Ltd
   Status   :  [ ACTIVE ] Building. Automating. Scaling.
 
-
+┌──[krishna@enterprise-infra]─[~]
+└─$ cat /etc/philosophy
 
   > Automate everything repeatable.
   > Secure by design, not by afterthought.
@@ -59,13 +82,13 @@
 <div align="center">
 
 ### Operating Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,aws,vmware&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,aws&theme=dark"/>
 
 ### DevOps & Automation
-<img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,terraform,ansible&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,terraform,ansible&theme=dark"/>
 
 ### Web, Monitoring & Tooling
-<img src="https://skillicons.dev/icons?i=nginx,apache,grafana,prometheus,bash,vim&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nginx,apache,grafana,prometheus,bash,vim&theme=dark"/>
 
 </div>
 
@@ -81,6 +104,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -117,10 +141,10 @@ Scale      : 3500+ Linux servers in production
 
 ### 🪟 Windows Administration
 ```
-Platform   : Windows 10 / 11 · Windows Server (2016, 2020, 2022)
-Directory  : Active Directory · GPO
+Platform   : Windows 10 / 11 · Server 2016/2019/2022
+Directory  : Active Directory · RBAC · GPO
 Messaging  : O365 · Exchange Online · MS Teams
-Scripting  : Shell
+Scripting  : PowerShell · Batch
 Support    : L2/L3 Production troubleshooting
 Scale      : 500+ Windows endpoints managed
 ```
@@ -132,8 +156,8 @@ Scale      : 500+ Windows endpoints managed
 
 ### ⚙️ DevOps & Automation
 ```
-SCM        : Git · GitHub 
-CI/CD      : Jenkins pipelines 
+SCM        : Git · GitHub
+CI/CD      : Jenkins pipelines
 Containers : Docker · Kubernetes (K8s)
 IaC        : Terraform · Ansible playbooks
 Scripting  : Bash · Shell · Python basics
@@ -149,7 +173,7 @@ APM        : Dynatrace · AppDynamics
 Metrics    : Prometheus · Grafana dashboards
 DEX        : Nexthink (digital experience)
 Alerts     : PagerDuty · ServiceNow integration
-Uptime     : SLA tracking 
+Uptime     : SLA tracking
 Logs       : Journalctl · syslog
 ```
 
@@ -172,7 +196,7 @@ Logs       : Journalctl · syslog
 ║         │                                                        ║
 ║         ▼                                                        ║
 ║   ┌─────────────────────────────────────┐                        ║
-║   │      CDN / WAF / DDoS Shield        │ ← Edge Security       ║
+║   │      CDN / WAF / DDoS Shield        │ ← Edge Security        ║
 ║   └──────────────────┬──────────────────┘                        ║
 ║                      │                                           ║
 ║   ┌──────────────────▼──────────────────┐                        ║
@@ -213,7 +237,7 @@ Logs       : Journalctl · syslog
 ```
  Developer                  CI/CD                     Production
  ─────────              ──────────────            ────────────────────
- 
+
  [Code] ──→ [Git Push] ──→ [Jenkins] ──→ [Build] ──→ [Unit Tests]
                                                │
                                      [SAST/DAST Scan] ◄── Security Gate
@@ -250,7 +274,7 @@ Logs       : Journalctl · syslog
 | 🪟 Windows Endpoints | **~500** |
 | ⏱️ Years of Enterprise Experience | **8+** |
 | 🚀 CI/CD Pipelines Operated | Multiple (Jenkins) |
-| 🔐 Compliance Frameworks Followed |  ISO aligned |
+| 🔐 Compliance Frameworks Followed | ISO aligned |
 | 🏆 Awards | On-the-Spot — Gemini Solutions Pvt Ltd |
 | ☁️ Cloud Platforms | AWS · VMware vSphere |
 | 🔭 Monitoring Tools | Dynatrace · Prometheus · Grafana · Nexthink |
@@ -259,13 +283,11 @@ Logs       : Journalctl · syslog
 
 ---
 
-<!-- ═══════════════════════════ GITHUB STATS ══════════════════════════ -->
+<!-- ═══════════════════════════ GITHUB ACTIVITY ══════════════════════════ -->
 
 ## `[06]` — GITHUB ACTIVITY
 
 <div align="center">
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=yadakrishna245&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff&border_radius=8"/>
 
@@ -277,7 +299,7 @@ Logs       : Journalctl · syslog
 
 ---
 
-<!-- ═══════════════════════════ CERTIFICATIONS ══════════════════════════ -->
+<!-- ═══════════════════════════ PROFESSIONAL PROFILE ══════════════════════════ -->
 
 ## `[07]` — PROFESSIONAL PROFILE
 
