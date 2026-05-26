@@ -117,10 +117,10 @@ Scale      : 3500+ Linux servers in production
 
 ### 🪟 Windows Administration
 ```
-Platform   : Windows 10 / 11 · Windows Server
-Directory  : Active Directory · RBAC · GPO
+Platform   : Windows 10 / 11 · Windows Server (2016, 2020, 2022)
+Directory  : Active Directory · GPO
 Messaging  : O365 · Exchange Online · MS Teams
-Scripting  : PowerShell automation
+Scripting  : Shell
 Support    : L2/L3 Production troubleshooting
 Scale      : 500+ Windows endpoints managed
 ```
@@ -132,12 +132,12 @@ Scale      : 500+ Windows endpoints managed
 
 ### ⚙️ DevOps & Automation
 ```
-SCM        : Git · GitHub · GitLab
-CI/CD      : Jenkins pipelines · Webhooks
+SCM        : Git · GitHub 
+CI/CD      : Jenkins pipelines 
 Containers : Docker · Kubernetes (K8s)
 IaC        : Terraform · Ansible playbooks
 Scripting  : Bash · Shell · Python basics
-Registry   : Harbor · Docker Hub
+Registry   : Docker Hub
 ```
 
 </td>
@@ -149,8 +149,8 @@ APM        : Dynatrace · AppDynamics
 Metrics    : Prometheus · Grafana dashboards
 DEX        : Nexthink (digital experience)
 Alerts     : PagerDuty · ServiceNow integration
-Uptime     : SLA tracking · SLO enforcement
-Logs       : ELK Stack · journalctl · syslog
+Uptime     : SLA tracking 
+Logs       : Journalctl · syslog
 ```
 
 </td>
@@ -250,9 +250,8 @@ Logs       : ELK Stack · journalctl · syslog
 | 🪟 Windows Endpoints | **~500** |
 | ⏱️ Years of Enterprise Experience | **8+** |
 | 🚀 CI/CD Pipelines Operated | Multiple (Jenkins) |
-| 📉 MTTR Reduction via Automation | Significant |
-| 🔐 Compliance Frameworks Followed | SOX / ISO aligned |
-| 🏆 Awards | On-the-Spot — Gemini Solutions |
+| 🔐 Compliance Frameworks Followed |  ISO aligned |
+| 🏆 Awards | On-the-Spot — Gemini Solutions Pvt Ltd |
 | ☁️ Cloud Platforms | AWS · VMware vSphere |
 | 🔭 Monitoring Tools | Dynatrace · Prometheus · Grafana · Nexthink |
 
