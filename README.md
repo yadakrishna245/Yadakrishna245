@@ -301,12 +301,8 @@ Logs       : Journalctl · syslog
 
 ```yaml
 certifications:
-  - name: "Red Hat Certified System Administrator (RHCSA)"
-    status: "Target / Working Toward"
-  - name: "AWS Certified SysOps Administrator"
-    status: "Target / Working Toward"
-  - name: "Certified Kubernetes Administrator (CKA)"
-    status: "Target / Working Toward"
+  - name: "AWS Cloud Practitioner Certificate (854b1dea551d4f928e9e83f9a6dd9cbf)"
+  - name: "AWS Certified Solutions Architect - Associate (2582ae8df86d4f9684aee92345014d58) "
 
 strengths:
   - "Production incident ownership and resolution"
@@ -316,15 +312,14 @@ strengths:
   - "SLA-driven operations with measurable outcomes"
 
 domain_expertise:
-  - Linux Administration (Expert)
-  - Cloud Infrastructure: AWS (Advanced)
-  - Container Orchestration: Docker/K8s (Advanced)
-  - Monitoring & Observability (Advanced)
+  - Linux Administration (Advanced)
+  - Cloud Infrastructure: AWS (Intermediate–Advanced)
+  - Container Orchestration: Docker/K8s (Intermediate)
+  - Monitoring & Observability (Intermediate)
   - CI/CD Pipeline Engineering (Intermediate–Advanced)
-  - Windows Administration (Intermediate)
+  - Windows Administration (Intermediate–Advanced)
 ```
 
----
 
 <!-- ═══════════════════════════ CONNECT ══════════════════════════ -->
 
