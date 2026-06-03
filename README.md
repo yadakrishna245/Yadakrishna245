@@ -73,7 +73,7 @@
 
 <!-- ═══════════════════════════ TECH STACK ══════════════════════════ -->
 
-## `[01]` — CORE TECHNOLOGY STACK
+## `1` — CORE TECHNOLOGY STACK
 
 <div align="center">
 
@@ -84,38 +84,15 @@
 <img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,terraform,ansible&theme=dark"/>
 
 ### Web, Monitoring & Tooling
-<img src="https://skillicons.dev/icons?i=nginx,apache,grafana,prometheus,bash,vim&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus,bash,vim&theme=dark"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Nexthink](https://img.shields.io/badge/Nexthink-00C3E3?style=flat-square&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-
-</div>
-
----
-
 <!-- ═══════════════════════════ EXPERTISE BREAKDOWN ══════════════════════════ -->
 
-## `[02]` — EXPERTISE BREAKDOWN
+## `2` — EXPERTISE BREAKDOWN
 
 <table>
 <tr>
@@ -179,7 +156,7 @@ Logs       : Journalctl · syslog
 
 ---
 
-## `[03]` — IMPACT & METRICS
+## `3` — IMPACT & METRICS
 
 <div align="center">
 
@@ -197,27 +174,9 @@ Logs       : Journalctl · syslog
 
 </div>
 
----
-
-<!-- ═══════════════════════════ GITHUB ACTIVITY ══════════════════════════ -->
-
-## `[04]` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yadakrishna245&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff&border_radius=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadakrishna245&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e3b341&area=true&hide_border=true&radius=8"/>
-
-</div>
-
----
-
 <!-- ═══════════════════════════ PROFESSIONAL PROFILE ══════════════════════════ -->
 
-## `[05]` — PROFESSIONAL PROFILE
+## `4` — PROFESSIONAL PROFILE
 
 ```yaml
 certifications:
@@ -243,7 +202,7 @@ domain_expertise:
 
 <!-- ═══════════════════════════ CONNECT ══════════════════════════ -->
 
-## `[06]` — CONNECT
+## `5` — CONNECT
 
 <div align="center">
 
