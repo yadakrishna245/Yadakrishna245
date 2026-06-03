@@ -28,9 +28,17 @@
 
 </div>
 
----
+<div align="center">
 
-<!-- 🏆 ACHIEVEMENT SHOWCASE -->
+### 👋 About Me
+
+Senior System Administrator & DevOps Engineer with 8+ years managing enterprise-scale infrastructure (4000+ servers). Passionate about automation, reliability engineering, and cloud-native operations.
+
+**🎯 Looking for:** Senior DevOps Engineer / SRE / Cloud Infrastructure roles (Remote / Hybrid — Bangalore)
+
+</div>
+
+---
 
 ## 🏆 Achievement Showcase
 
@@ -138,7 +146,7 @@ SCM        : Git · GitHub
 CI/CD      : Jenkins pipelines
 Containers : Docker · Kubernetes (K8s)
 IaC        : Terraform · Ansible playbooks
-Scripting  : Bash · Shell · Python basics
+Scripting  : Bash · Shell · Python
 Registry   : Docker Hub
 ```
 
@@ -183,14 +191,14 @@ Logs       : Journalctl · syslog
 
 ## `4` — PROFESSIONAL PROFILE
 
-```yaml
-certifications:
-```
-- [AWS Cloud Practitioner Certificate (854b1dea551d4f928e9e83f9a6dd9cbf)](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
-- [AWS Certified Solutions Architect - Associate (2582ae8df86d4f9684aee92345014d58)](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+### Certifications
+
+- [AWS Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+- [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+
+### Strengths
 
 ```yaml
-
 strengths:
   - "Production incident ownership and resolution"
   - "Enterprise-scale server lifecycle management"
@@ -214,11 +222,11 @@ domain_expertise:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/krishna-yada-8a8441239)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@yadakrishna245-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/yadakrishna245)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yadakrishna245@gmail.com)
 
 </div>
 
@@ -228,7 +236,7 @@ domain_expertise:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:1e6ea8&height=130&section=footer&text=Build.%20Automate.%20Scale.%20Repeat.&fontSize=22&fontColor=58a6ff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:1e6ea8&height=130&section=footer&text=Build.%20Automate.%20Scale.%20Repeat.&fontSize=22&fontColor=58a6ff"/>
 
 </div>
 
