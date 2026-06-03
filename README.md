@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="500"/>
+<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/>
 
 <br/>
 
