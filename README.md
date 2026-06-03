@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/"><img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/></a>
 
 <br/>
 
