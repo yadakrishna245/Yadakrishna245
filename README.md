@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/"><img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/></a>
+<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/>
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)
+[![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/)
 
 </div>
 
