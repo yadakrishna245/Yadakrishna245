@@ -52,22 +52,27 @@
 
 <!-- ═══════════════════════════ TERMINAL BIO ══════════════════════════ -->
 
-```bash
+<div align="center">
 
-  Name     :  Krishna Chaithanya
-  Role     :  Senior System Administrator & DevOps Engineer
-  Focus    :  Linux Infrastructure · Cloud · Automation · Reliability
-  Scale    :  4000+ Servers  |  AWS + Hybrid Cloud
-  XP       :  8+ Years in Enterprise Production Environments
-  Award    :  🏆 On-the-Spot Award — Gemini Solutions Pvt Ltd
-  Status   :  [ ACTIVE ] Building. Automating. Scaling.
+| | |
+|:---|:---|
+| **Name** | `Krishna Chaithanya` |
+| **Role** | `Senior System Administrator & DevOps Engineer` |
+| **Focus** | `Linux Infrastructure · Cloud · Automation · Reliability` |
+| **Scale** | `4000+ Servers  ·  AWS + Hybrid Cloud` |
+| **XP** | `8+ Years in Enterprise Production Environments` |
+| **Award** | `🏆 On-the-Spot Award — Gemini Solutions Pvt Ltd` |
+| **Status** | `[ ACTIVE ] Building. Automating. Scaling.` |
 
+</div>
 
-  > Automate everything repeatable.
-  > Secure by design, not by afterthought.
-  > If it isn't monitored, it doesn't exist.
-  > Reliability is a feature, not a bonus.
-```
+> *"Automate everything repeatable."*
+>
+> *"Secure by design, not by afterthought."*
+>
+> *"If it isn't monitored, it doesn't exist."*
+>
+> *"Reliability is a feature, not a bonus."*
 
 ---
 
