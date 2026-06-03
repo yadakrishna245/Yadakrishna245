@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0d1117,70:0d2137,100:0a3d62&height=280&section=header&text=KRISHNA%20CHAITHANYA&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Senior%20Linux%20Administrator%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=68&descSize=16&descColor=58a6ff&stroke=1e6ea8&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0d1117,70:0d2137,100:0a3d62&height=280&section=header&text=KRISHNA%20CHAITHANYA&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Senior%20Linux%20Administrator%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=68&descSize=16&descColor=58a6ff&stroke=1e6ea8&strokeWidth=2"/>
 
 </div>
 
