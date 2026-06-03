@@ -179,87 +179,7 @@ Logs       : Journalctl · syslog
 
 ---
 
-<!-- ═══════════════════════════ ARCHITECTURE ══════════════════════════ -->
-
-## `[03]` — REFERENCE ARCHITECTURE
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    ENTERPRISE INFRASTRUCTURE                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   [USERS / CLIENTS]                                              ║
-║         │                                                        ║
-║         ▼                                                        ║
-║   ┌─────────────────────────────────────┐                        ║
-║   │      CDN / WAF / DDoS Shield        │ ← Edge Security        ║
-║   └──────────────────┬──────────────────┘                        ║
-║                      │                                           ║
-║   ┌──────────────────▼──────────────────┐                        ║
-║   │        Load Balancer (HAProxy)      │ ← Traffic Distribution ║
-║   └──────┬───────────────────────┬──────┘                        ║
-║          │                       │                               ║
-║   ┌──────▼──────┐         ┌──────▼──────┐                        ║
-║   │  NGINX/SSL  │         │  Apache/SSL │ ← Reverse Proxy        ║
-║   └──────┬──────┘         └──────┬──────┘                        ║
-║          │                       │                               ║
-║   ┌──────▼───────────────────────▼──────┐                        ║
-║   │     Application Layer (Tomcat)      │ ← Java / Microservices ║
-║   │     Containerized via Docker/K8s    │                        ║
-║   └──────────────────┬──────────────────┘                        ║
-║                      │                                           ║
-║   ┌──────────────────▼──────────────────┐                        ║
-║   │   OS Layer: RHEL / Ubuntu (4000+)   │ ← Core Infrastructure  ║
-║   └──────────────────┬──────────────────┘                        ║
-║                      │                                           ║
-║   ┌──────────────────▼──────────────────┐                        ║
-║   │   Cloud/VM: AWS EC2 · VMware vSphere│ ← Compute Layer        ║
-║   └──────────────────┬──────────────────┘                        ║
-║                      │                                           ║
-║   ┌──────────────────▼──────────────────┐                        ║
-║   │  Monitoring: Prometheus · Grafana   │ ← Full Observability   ║
-║   │  APM: Dynatrace · Nexthink · Alerts │                        ║
-║   └─────────────────────────────────────┘                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════ DEVSECOPS PIPELINE ══════════════════════════ -->
-
-## `[04]` — DEVSECOPS PIPELINE
-
-```
- Developer                  CI/CD                     Production
- ─────────              ──────────────            ────────────────────
-
- [Code] ──→ [Git Push] ──→ [Jenkins] ──→ [Build] ──→ [Unit Tests]
-                                               │
-                                     [SAST/DAST Scan] ◄── Security Gate
-                                               │
-                              [Docker Build] ──→ [Image Push]
-                                               │
-                           [Terraform Plan] ──→ [Infra Provision]
-                                               │
-                        [Ansible Configure] ──→ [K8s Deploy]
-                                               │
-                       [Smoke Tests] ──→ [Load Tests] ──→ [LIVE]
-                                               │
-                 ┌─────────────────────────────┘
-                 ▼
-         [Prometheus Scrape]
-         [Grafana Dashboard]         ← Always-On Observability
-         [Dynatrace APM]
-         [PagerDuty Alerts]
-         [Post-Incident Review]      ← Continuous Improvement Loop
-```
-
----
-
-<!-- ═══════════════════════════ IMPACT METRICS ══════════════════════════ -->
-
-## `[05]` — IMPACT & METRICS
+## `[03]` — IMPACT & METRICS
 
 <div align="center">
 
@@ -281,7 +201,7 @@ Logs       : Journalctl · syslog
 
 <!-- ═══════════════════════════ GITHUB ACTIVITY ══════════════════════════ -->
 
-## `[06]` — GITHUB ACTIVITY
+## `[04]` — GITHUB ACTIVITY
 
 <div align="center">
 
@@ -297,7 +217,7 @@ Logs       : Journalctl · syslog
 
 <!-- ═══════════════════════════ PROFESSIONAL PROFILE ══════════════════════════ -->
 
-## `[07]` — PROFESSIONAL PROFILE
+## `[05]` — PROFESSIONAL PROFILE
 
 ```yaml
 certifications:
@@ -323,7 +243,7 @@ domain_expertise:
 
 <!-- ═══════════════════════════ CONNECT ══════════════════════════ -->
 
-## `[08]` — CONNECT
+## `[06]` — CONNECT
 
 <div align="center">
 
