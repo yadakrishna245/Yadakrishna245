@@ -180,8 +180,11 @@ Logs       : Journalctl · syslog
 
 ```yaml
 certifications:
-  - name: "AWS Cloud Practitioner Certificate (854b1dea551d4f928e9e83f9a6dd9cbf)"
-  - name: "AWS Certified Solutions Architect - Associate (2582ae8df86d4f9684aee92345014d58) "
+```
+- [AWS Cloud Practitioner Certificate (854b1dea551d4f928e9e83f9a6dd9cbf)](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+- [AWS Certified Solutions Architect - Associate (2582ae8df86d4f9684aee92345014d58)](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+
+```yaml
 
 strengths:
   - "Production incident ownership and resolution"
