@@ -36,15 +36,15 @@
 
 <div align="center">
 
-<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="750"/>
-
-<br/><br/>
-
-![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)
+<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="500"/>
 
 <br/>
 
-<sub><b>Recognition for outstanding production support, incident resolution & enterprise infrastructure reliability</b></sub>
+### Recognition for outstanding production support, incident resolution & enterprise infrastructure reliability
+
+<br/>
+
+![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
