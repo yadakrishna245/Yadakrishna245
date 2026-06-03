@@ -34,7 +34,7 @@
 
 Senior System Administrator & DevOps Engineer with 8+ years managing enterprise-scale infrastructure (4000+ servers). Passionate about automation, reliability engineering, and cloud-native operations.
 
-**🎯 Looking for:** Senior DevOps Engineer / SRE / Cloud Infrastructure roles (Remote / Hybrid — Bangalore)
+**🎯 Looking for:**  DevOps Engineer / SRE / Cloud Infrastructure roles (Remote / Hybrid — Bangalore)
 
 </div>
 
