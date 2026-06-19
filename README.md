@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-280%2B-0d2137?style=for-the-badge&labelColor=0a3d62)
+![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-738-0d2137?style=for-the-badge&labelColor=0a3d62)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0d1117)
 &nbsp;
