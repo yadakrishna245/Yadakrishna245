@@ -1,0 +1,2 @@
+# storage Guide
+Documentation placeholder.
