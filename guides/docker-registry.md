@@ -1,0 +1,2 @@
+# docker-registry
+Guide content.
