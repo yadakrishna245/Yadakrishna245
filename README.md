@@ -54,6 +54,19 @@ Senior Linux Administrator & DevOps Engineer with 8+ years managing enterprise-s
 
 [![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/)
 
+<br/><br/>
+
+### 🎖️ GitHub Achievements
+
+| | Achievement | Description |
+|:---:|:---|:---|
+| 🫛 | **Pair Extraordinaire** | Co-authored commits with collaborators |
+| 🌈 | **YOLO** | Merged a PR without code review |
+| 🤠 | **Starstruck** | Repository received 16+ stars |
+| 🧊 | **Arctic Code Vault** | Contributed to 2020 GitHub Archive Program |
+| 🧠 | **Galaxy Brain** | Answered discussions with accepted answers |
+| 🦈 | **Pull Shark** | Opened and merged pull requests |
+
 </div>
 
 ---
