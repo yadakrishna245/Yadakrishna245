@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadakrishna245&style=for-the-badge&color=0d2137&labelColor=0a3d62&label=PROFILE+VIEWS)
+![Profile Views](https://visitcount.itsvg.in/api?id=yadakrishna245&icon=0&color=0)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0d1117)
 &nbsp;
