@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=yadakrishna245&icon=0&color=0)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyadakrishna245&label=PROFILE%20VIEWS&labelColor=%230a3d62&countColor=%230d2137&style=for-the-badge)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0d1117)
 &nbsp;
