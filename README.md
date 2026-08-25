@@ -195,6 +195,8 @@ Logs       : Journalctl · syslog
 
 - [AWS Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
 - [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
+- AWS Certified CloudOps Engineer Associate
+- Claude Certified Associate Foundation
 
 ### Strengths
 
