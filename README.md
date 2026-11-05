@@ -63,7 +63,6 @@ I'm a Senior Linux Administrator and DevOps Engineer with 8+ years running enter
 
 - [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp) · issued Apr 2026 · [certificate](<AWS Certified Solutions Architect - Associate certificate.pdf>)
 - [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62) · issued Mar 2026 · [certificate](<AWS Certified Cloud Practitioner certificate.pdf>)
-- AWS Certified CloudOps Engineer – Associate
 
 **Other**
 
