@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/SERVERS_MANAGED-4000%2B-701A3D?style=for-the-badge&labelColor=190B12" alt="4000+ servers managed"/>
 &nbsp;
 <img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-451126?style=for-the-badge&labelColor=190B12" alt="8+ years experience"/>
+&nbsp;
+<a href="https://www.credly.com/badges/380e0eaf-ff00-4a40-b7c3-e092667fd4a3" title="Verify on Credly"><img src="https://img.shields.io/badge/CLAUDE_CERTIFIED_ASSOCIATE-FOUNDATIONS-C77B9B?style=for-the-badge&logo=claude&logoColor=F8F0F3&labelColor=190B12" alt="Claude Certified Associate – Foundations"/></a>
 
 <br/><br/>
 
