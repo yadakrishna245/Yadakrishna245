@@ -64,6 +64,11 @@ I'm a Senior Linux Administrator and DevOps Engineer with 8+ years running enter
 - [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp) · issued Apr 2026 · [certificate](<AWS Certified Solutions Architect - Associate certificate.pdf>)
 - [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62) · issued Mar 2026 · [certificate](<AWS Certified Cloud Practitioner certificate.pdf>)
 
+**Courses**
+
+- [Claude Code – The Ultimate Guide! Build Websites & SaaS Apps](https://www.udemy.com/certificate/UC-f45df650-24f9-42f7-a6d2-e0a373eae8bc/) · Udemy · Sep 2026 · [certificate](https://github.com/yadakrishna245/Udemy-Certificates/blob/main/Udemy-Claude%20Code%20build%20apps%20certificate.pdf)
+- [Claude Cowork – The Practical Guide](https://www.udemy.com/certificate/UC-8a4d0c6a-0fa6-4622-8f04-2795251f4052/) · Udemy (Academind) · Aug 2026 · [certificate](https://github.com/yadakrishna245/Udemy-Certificates/blob/main/Udemy-Claude%20Cowork%20Certificate.pdf)
+
 **Other**
 
 - [Claude Certified Associate – Foundations](https://www.credly.com/badges/380e0eaf-ff00-4a40-b7c3-e092667fd4a3) · issued Aug 2026 · [certificate](<Claude Certified Associate - Foundations certificate.pdf>)
