@@ -20,11 +20,13 @@
 
 <br/><br/>
 
-<a href="https://yadakrishna245.github.io" title="Open the interactive 3D portfolio">
-  <img src="https://yadakrishna245.github.io/assets/preview.webp" width="100%" alt="Fly-through of my interactive 3D data center portfolio"/>
+<a href="https://yadakrishna245.github.io" title="Open my interactive portfolio">
+  <img src="https://yadakrishna245.github.io/assets/preview-v2.webp" width="100%" alt="26,000 particles morphing from my name into a globe, a server lattice, a pipeline helix and a galaxy"/>
 </a>
 
-<a href="https://yadakrishna245.github.io"><img src="https://img.shields.io/badge/ENTER_THE_3D_DATA_CENTER-%E2%86%97-C77B9B?style=for-the-badge&labelColor=190B12" alt="Enter the 3D data center"/></a>
+<a href="https://yadakrishna245.github.io"><img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-%E2%86%97-9C7BFF?style=for-the-badge&labelColor=0E1030" alt="Open my portfolio"/></a>
+&nbsp;
+<a href="https://yadakrishna245.github.io/classic/"><img src="https://img.shields.io/badge/CLASSIC_3D_DATA_CENTER-%E2%86%97-C77B9B?style=for-the-badge&labelColor=190B12" alt="Classic 3D data center version"/></a>
 
 </div>
 
