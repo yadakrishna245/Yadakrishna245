@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="kch-foot-title">
+  <title id="kch-foot-title">Build. Automate. Scale. Repeat.</title>
+  <defs>
+    <linearGradient id="kch-foot-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#190B12"/>
+      <stop offset="0.5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <linearGradient id="kch-foot-wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#190B12" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path fill="url(#kch-foot-wave2)" d="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 V130 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g>
+    <path fill="url(#kch-foot-wave)" d="M0 84 Q150 110 300 84 T600 84 T900 84 T1200 84 T1500 84 T1800 84 V130 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="600" y="44" text-anchor="middle" fill="#E5B5C7" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="18" letter-spacing="4">BUILD · AUTOMATE · SCALE · REPEAT
+    <animate attributeName="fill-opacity" values="0.65;1;0.65" dur="5s" repeatCount="indefinite"/>
+  </text>
+</svg>

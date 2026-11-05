@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="kch-hero-title kch-hero-desc">
+  <title id="kch-hero-title">Krishna Chaithanya</title>
+  <desc id="kch-hero-desc">Senior Linux Administrator, DevOps Engineer and Cloud Infrastructure. Animated burgundy banner.</desc>
+  <defs>
+    <linearGradient id="kch-hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <radialGradient id="kch-hero-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#701A3D" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="kch-hero-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#C77B9B"/>
+      <stop offset="0.6" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="kch-hero-underline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset="0.5" stop-color="#E5B5C7">
+        <animate attributeName="offset" values="0.2;0.8;0.2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <pattern id="kch-hero-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#701A3D" stroke-width="0.6" stroke-opacity="0.35"/>
+    </pattern>
+    <linearGradient id="kch-hero-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.05"/>
+      <stop offset="0.55" stop-color="#fff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="kch-hero-gridmask">
+      <rect width="1200" height="360" fill="url(#kch-hero-fade)"/>
+    </mask>
+    <filter id="kch-hero-blur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <clipPath id="kch-hero-clip">
+      <rect width="1200" height="360" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#kch-hero-clip)">
+    <rect width="1200" height="360" fill="url(#kch-hero-bg)"/>
+    <rect width="1200" height="360" fill="url(#kch-hero-grid)" mask="url(#kch-hero-gridmask)"/>
+
+    <!-- moving light -->
+    <circle cx="300" cy="140" r="320" fill="url(#kch-hero-glow)">
+      <animate attributeName="cx" values="240;820;240" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;220;120" dur="18s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- orbital geometry -->
+    <g transform="translate(1020 165)" fill="none" stroke-linecap="round">
+      <circle r="118" stroke="#451126" stroke-width="1"/>
+      <circle r="80" stroke="#701A3D" stroke-width="1" stroke-dasharray="2 7"/>
+      <g>
+        <ellipse rx="140" ry="50" stroke="#C77B9B" stroke-opacity="0.45" stroke-width="1"/>
+        <animateTransform attributeName="transform" type="rotate" from="-18" to="342" dur="40s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <ellipse rx="128" ry="34" stroke="#E5B5C7" stroke-opacity="0.3" stroke-width="1" transform="rotate(48)"/>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="55s" repeatCount="indefinite"/>
+      </g>
+      <circle r="5" fill="#E5B5C7" stroke="none">
+        <animateMotion dur="9s" repeatCount="indefinite" path="M118,0 A118,118 0 1,1 -118,0 A118,118 0 1,1 118,0"/>
+      </circle>
+      <circle r="3" fill="#C77B9B" stroke="none">
+        <animateMotion dur="6s" repeatCount="indefinite" path="M-80,0 A80,80 0 1,0 80,0 A80,80 0 1,0 -80,0"/>
+      </circle>
+      <!-- core: stacked server glyph -->
+      <g stroke="#E5B5C7" stroke-width="1.4">
+        <rect x="-26" y="-30" width="52" height="16" rx="3"/>
+        <rect x="-26" y="-8" width="52" height="16" rx="3"/>
+        <rect x="-26" y="14" width="52" height="16" rx="3"/>
+      </g>
+      <g fill="#C77B9B" stroke="none">
+        <circle cx="-16" cy="-22" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+        <circle cx="-16" cy="0" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+        <circle cx="-16" cy="22" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+
+    <!-- label -->
+    <text x="72" y="92" fill="#C77B9B" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="16" letter-spacing="2">$ whoami</text>
+
+    <!-- name -->
+    <text x="70" y="168" fill="#F8F0F3" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="3">KRISHNA CHAITHANYA</text>
+
+    <!-- glowing underline -->
+    <rect x="72" y="190" width="560" height="4" rx="2" fill="url(#kch-hero-underline)" filter="url(#kch-hero-blur)" opacity="0.9"/>
+    <rect x="72" y="190" width="560" height="3" rx="1.5" fill="url(#kch-hero-underline)"/>
+
+    <!-- role line -->
+    <text x="72" y="232" fill="#E5B5C7" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="1">Senior Linux Administrator  ·  DevOps Engineer  ·  Cloud Infrastructure</text>
+    <text x="72" y="262" fill="#C77B9B" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="14" letter-spacing="1.5">RHEL · UBUNTU · WINDOWS SERVER · AWS · TERRAFORM · ANSIBLE · KUBERNETES</text>
+
+    <!-- animated uptime pulse path -->
+    <path d="M0 318 H180 l14 -22 l12 40 l12 -50 l12 32 H420 l10 -14 l10 24 l10 -10 H700 l14 -26 l12 44 l12 -30 H1200"
+          fill="none" stroke="#451126" stroke-width="2"/>
+    <path d="M0 318 H180 l14 -22 l12 40 l12 -50 l12 32 H420 l10 -14 l10 24 l10 -10 H700 l14 -26 l12 44 l12 -30 H1200"
+          fill="none" stroke="url(#kch-hero-line)" stroke-width="2.2" stroke-linecap="round"
+          stroke-dasharray="1500" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="1500;0;0;-1500" keyTimes="0;0.45;0.7;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+
+    <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" fill="none" stroke="#701A3D" stroke-opacity="0.7"/>
+  </g>
+</svg>

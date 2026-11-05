@@ -1,138 +1,165 @@
 <!-- ============================================================ -->
-<!--  KRISHNA CHAITHANYA — PREMIUM GITHUB PROFILE README         -->
+<!--  KRISHNA CHAITHANYA · GITHUB PROFILE README (burgundy theme) -->
+<!--  Palette: #10070C #190B12 #451126 #701A3D #C77B9B #E5B5C7    -->
+<!--           #F8F0F3                                            -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0d1117,70:0d2137,100:0a3d62&height=280&section=header&text=KRISHNA%20CHAITHANYA&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Senior%20Linux%20Administrator%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=68&descSize=16&descColor=58a6ff&stroke=1e6ea8&strokeWidth=2"/>
+<img src="assets/krishna-hero.svg" width="100%" alt="Krishna Chaithanya: Senior Linux Administrator, DevOps Engineer, Cloud Infrastructure"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%E2%96%B6+8%2B+Years+in+Enterprise+Infrastructure;%E2%96%B6+4000%2B+Production+Servers+Under+Management;%E2%96%B6+RHEL+%7C+Ubuntu+%7C+Windows+%7C+AWS+%7C+Hybrid+Cloud;%E2%96%B6+CI%2FCD+%7C+IaC+%7C+Observability+%7C+Incident+Response;%E2%96%B6+On-the-Spot+Award+%E2%80%94+Gemini+Solutions" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-738-0d2137?style=for-the-badge&labelColor=0a3d62)
+<img src="https://komarev.com/ghpvc/?username=yadakrishna245&label=PROFILE%20VIEWS&color=701A3D&style=for-the-badge" alt="Profile views"/>
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0d1117)
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-C77B9B?style=for-the-badge&labelColor=190B12" alt="Open to work"/>
 &nbsp;
-![Scale](https://img.shields.io/badge/SERVERS_MANAGED-4000%2B-58a6ff?style=for-the-badge&labelColor=0d1117)
+<img src="https://img.shields.io/badge/SERVERS_MANAGED-4000%2B-701A3D?style=for-the-badge&labelColor=190B12" alt="4000+ servers managed"/>
 &nbsp;
-![Experience](https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-e3b341?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
-<div align="center">
-
-### 👋 About Me
-
-Senior Linux Administrator & DevOps Engineer with 8+ years managing enterprise-scale infrastructure (4000+ servers). Passionate about automation, reliability engineering, and cloud-native operations.
-
-**🎯 Looking for:**  DevOps Engineer / SRE / Cloud Infrastructure roles (Remote / Hybrid — Bangalore)
+<img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-451126?style=for-the-badge&labelColor=190B12" alt="8+ years experience"/>
 
 </div>
 
 ---
 
-## 🏆 Achievement Showcase
+## 👋 About me
 
 <div align="center">
-
-<img src="https://github.com/yadakrishna245/yadakrishna245/blob/main/Award.png?raw=true" width="380"/>
-
-<br/>
-
-### Recognition for outstanding production support, incident resolution & enterprise infrastructure reliability
-
-<br/>
-
-[![Award](https://img.shields.io/badge/%F0%9F%A5%87%20On--the--Spot%20Award-Gemini%20Solutions%20Pvt%20Ltd-e3b341?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/)
-
+<img src="assets/krishna-terminal.svg" width="100%" alt="Terminal card: profile summary"/>
 </div>
+
+I'm a Senior Linux Administrator and DevOps Engineer with 8+ years running enterprise production infrastructure. I currently look after 4000+ servers: about 3500 on Linux (RHEL and Ubuntu) and about 500 on Windows. Most of my work is patching at scale, incident ownership, automation with Ansible and Terraform, and keeping AWS and hybrid workloads healthy and monitored.
+
+**Looking for:** DevOps Engineer, SRE or Cloud Infrastructure roles (Remote / Hybrid, Bangalore).
+
+> *Automate everything repeatable · Secure by design · If it isn't monitored, it doesn't exist · Reliability is a feature*
 
 ---
 
-<!-- ═══════════════════════════ TERMINAL BIO ══════════════════════════ -->
+## 🏆 Achievements & certifications
 
-<div align="center">
+<table>
+<tr>
+<td width="45%" align="center" valign="top">
+<img src="Award.png" width="320" alt="On-the-Spot Award, Gemini Solutions Pvt Ltd"/>
+<br/>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7464191224032243712/"><b>🥇 On-the-Spot Award · Gemini Solutions Pvt Ltd</b></a>
+<br/>
+<sub>For production support, incident resolution and enterprise infrastructure reliability</sub>
+</td>
+<td width="55%" valign="top">
 
-| | |
-|:---|:---|
-| **Name** | `Krishna Chaithanya` |
-| **Role** | `Senior System Administrator & DevOps Engineer` |
-| **Focus** | `Linux Infrastructure · Cloud · Automation · Reliability` |
-| **Scale** | `4000+ Servers  ·  AWS + Hybrid Cloud` |
-| **XP** | `8+ Years in Enterprise Production Environments` |
-| **Award** | `🏆 On-the-Spot Award — Gemini Solutions Pvt Ltd` |
-| **Status** | `[ ACTIVE ] Building. Automating. Scaling.` |
+**AWS certifications**
 
-</div>
+- [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp) · issued Apr 2026 · [certificate](<AWS Certified Solutions Architect - Associate certificate.pdf>)
+- [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62) · issued Mar 2026 · [certificate](<AWS Certified Cloud Practitioner certificate.pdf>)
+- AWS Certified CloudOps Engineer – Associate
 
-> *"Automate everything repeatable."*
->
-> *"Secure by design, not by afterthought."*
->
-> *"If it isn't monitored, it doesn't exist."*
->
-> *"Reliability is a feature, not a bonus."*
+**Other**
+
+- Claude Certified Associate – Foundation
+- [Appreciation notes from teams and customers](<Appreciations for Krishna.pdf>)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ═══════════════════════════ TECH STACK ══════════════════════════ -->
-
-## `1` — CORE TECHNOLOGY STACK
-
-<div align="center">
-
-### Operating Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,aws&theme=dark"/>
-
-### DevOps & Automation
-<img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,terraform,ansible&theme=dark"/>
-
-### Web, Monitoring & Tooling
-<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus,bash,vim&theme=dark"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ EXPERTISE BREAKDOWN ══════════════════════════ -->
-
-## `2` — EXPERTISE BREAKDOWN
+## 🚀 Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Linux Administration
-```
-Platform   : RHEL 7/8/9 · Ubuntu 20/22/24 LTS
-Patching   : YUM / APT · Kernel Upgrades
-Storage    : LVM · XFS · ext4 · NFS · iSCSI
-Network    : Bonding · VLAN · Firewalld · iptables
-Security   : SELinux · sudoers · SSH hardening
-Perf       : top/htop · sar · vmstat · iostat
-Scale      : 3500+ Linux servers in production
+**[terraform-aws-infrastructure](https://github.com/yadakrishna245/terraform-aws-infrastructure)**<br/>
+End-to-end AWS provisioning with Terraform: VPC, EC2, RDS, S3 and CloudFront.<br/>
+<sub><code>Terraform</code> <code>HCL</code> <code>AWS</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Photo-Gallery serverless app](https://github.com/yadakrishna245/Photo-Gallery-App-Serverless-Capstone-Project)**<br/>
+Secure image upload and viewing. Cognito for sign-in, Lambda and API Gateway for the backend, S3 and DynamoDB for storage, CloudFront for delivery.<br/>
+<sub><code>AWS Lambda</code> <code>Cognito</code> <code>DynamoDB</code> <code>Python</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[DockerShield](https://github.com/yadakrishna245/DockerShield)**<br/>
+Docker image security scanner that looks for vulnerabilities, malware, secrets and misconfigurations before an image ships.<br/>
+<sub><code>Python</code> <code>Docker</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[github-security-scanner](https://github.com/yadakrishna245/github-security-scanner)**<br/>
+Scans a GitHub profile for compromised npm/PyPI packages, leaked secrets and dependency vulnerabilities.<br/>
+<sub><code>Python</code> <code>Security</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[RDS-Blue-Green-Deployment](https://github.com/yadakrishna245/RDS-Blue-Green-Deployment)**<br/>
+Blue/Green strategy on AWS RDS for zero-downtime database upgrades and migrations.<br/>
+<sub><code>AWS RDS</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[ECR DevSecOps pipeline](https://github.com/yadakrishna245/ECR-Devsecops-Commands-Image)**<br/>
+Container build, image scanning and secure deployment with AWS ECR.<br/>
+<sub><code>AWS ECR</code> <code>Docker</code> <code>DevSecOps</code></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Skills
+
+<div align="center">
+
+**Operating systems & cloud**<br/>
+<img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,aws&theme=dark" alt="Linux, Red Hat, Ubuntu, Windows, AWS"/>
+
+**DevOps & automation**<br/>
+<img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,terraform,ansible&theme=dark" alt="Git, Jenkins, Docker, Kubernetes, Terraform, Ansible"/>
+
+**Web, monitoring & tooling**<br/>
+<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus,bash,vim&theme=dark" alt="Nginx, Grafana, Prometheus, Bash, Vim"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🐧 Linux administration**
+```text
+Platform  : RHEL 7/8/9 · Ubuntu 20/22/24 LTS
+Patching  : YUM / APT · kernel upgrades
+Storage   : LVM · XFS · ext4 · NFS · iSCSI
+Network   : bonding · VLAN · firewalld · iptables
+Security  : SELinux · sudoers · SSH hardening
+Perf      : top/htop · sar · vmstat · iostat
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🪟 Windows Administration
-```
-Platform   : Windows 10 / 11 · Server 2016/2019/2022
-Directory  : Active Directory · RBAC · GPO
-Messaging  : O365 · Exchange Online · MS Teams
-Scripting  : PowerShell · Batch
-Support    : L2/L3 Production troubleshooting
-Scale      : 500+ Windows endpoints managed
+**🪟 Windows administration**
+```text
+Platform  : Windows 10/11 · Server 2016/2019/2022
+Directory : Active Directory · RBAC · GPO
+Messaging : O365 · Exchange Online · Teams
+Scripting : PowerShell · Batch
+Support   : L2/L3 production troubleshooting
 ```
 
 </td>
@@ -140,27 +167,25 @@ Scale      : 500+ Windows endpoints managed
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Automation
-```
+**⚙️ DevOps & automation**
+```text
 SCM        : Git · GitHub
 CI/CD      : Jenkins pipelines
-Containers : Docker · Kubernetes (K8s)
-IaC        : Terraform · Ansible playbooks
+Containers : Docker · Kubernetes
+IaC        : Terraform · Ansible
 Scripting  : Bash · Shell · Python
-Registry   : Docker Hub
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Observability & Monitoring
-```
-APM        : Dynatrace · AppDynamics
-Metrics    : Prometheus · Grafana dashboards
-DEX        : Nexthink (digital experience)
-Alerts     : PagerDuty · ServiceNow integration
-Uptime     : SLA tracking
-Logs       : Journalctl · syslog
+**📊 Observability**
+```text
+APM     : Dynatrace · AppDynamics
+Metrics : Prometheus · Grafana
+DEX     : Nexthink
+Alerts  : PagerDuty · ServiceNow
+Logs    : journalctl · syslog
 ```
 
 </td>
@@ -169,79 +194,41 @@ Logs       : Journalctl · syslog
 
 ---
 
-## `3` — IMPACT & METRICS
+## 🟪 Contribution heatmap
 
 <div align="center">
 
-| Metric | Value |
-|:---|:---:|
-| 🖥️ Servers Under Active Management | **4,000+** |
-| 🐧 Linux Servers (RHEL + Ubuntu) | **~3,500** |
-| 🪟 Windows Endpoints | **~500** |
-| ⏱️ Years of Enterprise Experience | **8+** |
-| 🚀 CI/CD Pipelines Operated | Multiple (Jenkins) |
-| 🔐 Compliance Frameworks Followed | ISO aligned |
-| 🏆 Awards | On-the-Spot — Gemini Solutions Pvt Ltd |
-| ☁️ Cloud Platforms | AWS · VMware vSphere |
-| 🔭 Monitoring Tools | Dynatrace · Prometheus · Grafana · Nexthink |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yadakrishna245/yadakrishna245/output/contribution-heatmap-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yadakrishna245/yadakrishna245/output/contribution-heatmap.svg" width="100%" alt="My GitHub contribution grid (real data, rebuilt every 12 hours)"/>
+</picture>
+
+<sub>Built from my real GitHub contribution data by a GitHub Action every 12 hours.</sub>
 
 </div>
 
-<!-- ═══════════════════════════ PROFESSIONAL PROFILE ══════════════════════════ -->
-
-## `4` — PROFESSIONAL PROFILE
-
-### Certifications
-
-- [AWS Cloud Practitioner](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-cloudcomputing-awscertified-activity-7452297084487045120-On62?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
-- [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/posts/krishna-yada-8a8441239_aws-awscertified-solutionsarchitect-activity-7449323540820152320-Eozp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtUz8ABHB3ThpDgBjtn8QSCy89urXQomi8)
-- AWS Certified CloudOps Engineer Associate
-- Claude Certified Associate Foundation
-
-### Strengths
-
-```yaml
-strengths:
-  - "Production incident ownership and resolution"
-  - "Enterprise-scale server lifecycle management"
-  - "Cross-functional infrastructure communication"
-  - "Automation-first mindset with Ansible + Terraform"
-  - "SLA-driven operations with measurable outcomes"
-
-domain_expertise:
-  - Linux Administration (Advanced)
-  - Cloud Infrastructure: AWS (Intermediate–Advanced)
-  - Container Orchestration: Docker/K8s (Intermediate)
-  - Monitoring & Observability (Intermediate)
-  - CI/CD Pipeline Engineering (Intermediate–Advanced)
-  - Windows Administration (Intermediate–Advanced)
-```
-
-
-<!-- ═══════════════════════════ CONNECT ══════════════════════════ -->
-
-## `5` — CONNECT
+## 📈 GitHub activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/krishna-yada-8a8441239)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@yadakrishna245-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/yadakrishna245)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yadakrishna245@gmail.com)
+<img src="https://streak-stats.demolab.com?user=yadakrishna245&background=10070C&border=451126&stroke=701A3D&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&currStreakLabel=E5B5C7&sideLabels=C77B9B&dates=C77B9B&hide_border=true" alt="GitHub streak stats"/>
 
 </div>
-
-<br/>
 
 ---
 
+## 🤝 Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:1e6ea8&height=130&section=footer&text=Build.%20Automate.%20Scale.%20Repeat.&fontSize=22&fontColor=58a6ff"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3&labelColor=190B12)](https://www.linkedin.com/in/krishna-yada-8a8441239)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-@yadakrishna245-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/yadakrishna245)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_out-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3&labelColor=190B12)](mailto:yadakrishna245@gmail.com)
+
+<br/><br/>
+
+<img src="assets/krishna-footer.svg" width="100%" alt="Build. Automate. Scale. Repeat."/>
 
 </div>
-
-<!-- ============================================================ -->
-<!--  README crafted with intentionality. Precision over noise.  -->
-<!-- ============================================================ -->

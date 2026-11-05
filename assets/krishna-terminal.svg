@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="kch-term-title kch-term-desc">
+  <title id="kch-term-title">Profile summary</title>
+  <desc id="kch-term-desc">Terminal card: Senior Linux Administrator and DevOps Engineer, 8+ years, 4000+ servers, AWS Cloud Practitioner and Solutions Architect Associate, open to DevOps, SRE and Cloud roles in Bangalore.</desc>
+  <defs>
+    <linearGradient id="kch-term-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <clipPath id="kch-term-clip"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#kch-term-clip)" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="15">
+    <rect width="900" height="300" fill="url(#kch-term-bg)"/>
+    <rect width="900" height="38" fill="#451126" fill-opacity="0.55"/>
+    <circle cx="24" cy="19" r="6" fill="#C77B9B"/>
+    <circle cx="44" cy="19" r="6" fill="#701A3D"/>
+    <circle cx="64" cy="19" r="6" fill="#451126" stroke="#701A3D"/>
+    <text x="450" y="24" fill="#E5B5C7" font-size="13" text-anchor="middle" letter-spacing="1">krishna@infra: ~</text>
+
+    <g>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.96;1" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="76"><tspan fill="#C77B9B">$</tspan><tspan fill="#F8F0F3"> whoami</tspan></text>
+      <text x="28" y="98" fill="#E5B5C7">Krishna Chaithanya: Senior Linux Administrator &amp; DevOps Engineer</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.12;0.16;0.96;1" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="130"><tspan fill="#C77B9B">$</tspan><tspan fill="#F8F0F3"> fleet --summary</tspan></text>
+      <text x="28" y="152" fill="#E5B5C7">4000+ servers · ~3500 Linux (RHEL/Ubuntu) · ~500 Windows · 8+ years</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.30;0.96;1" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="184"><tspan fill="#C77B9B">$</tspan><tspan fill="#F8F0F3"> aws certs --list</tspan></text>
+      <text x="28" y="206" fill="#E5B5C7">Cloud Practitioner · Solutions Architect – Associate</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.44;0.96;1" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="238"><tspan fill="#C77B9B">$</tspan><tspan fill="#F8F0F3"> status</tspan></text>
+      <text x="28" y="260" fill="#E5B5C7">Open to DevOps / SRE / Cloud Infrastructure roles · Bangalore (Remote / Hybrid)</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.52;0.96;1" dur="16s" repeatCount="indefinite"/>
+      <text x="28" y="286" fill="#C77B9B">$</text>
+      <rect x="44" y="273" width="9" height="16" fill="#E5B5C7">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect x="0.5" y="0.5" width="899" height="299" rx="13.5" fill="none" stroke="#701A3D"/>
+  </g>
+</svg>
