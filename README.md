@@ -67,7 +67,7 @@ I'm a Senior Linux Administrator and DevOps Engineer with 8+ years running enter
 
 **Other**
 
-- Claude Certified Associate – Foundation
+- [Claude Certified Associate – Foundations](https://www.credly.com/badges/380e0eaf-ff00-4a40-b7c3-e092667fd4a3) · issued Aug 2026 · [certificate](<Claude Certified Associate - Foundations certificate.pdf>)
 - [Appreciation notes from teams and customers](<Appreciations for Krishna.pdf>)
 
 </td>
